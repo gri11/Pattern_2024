@@ -1,0 +1,5 @@
+.DS_Store
+*.csv
+playground/
+
+__pycache__/
