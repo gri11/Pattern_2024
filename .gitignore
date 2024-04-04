@@ -3,3 +3,9 @@
 playground/
 
 __pycache__/
+
+HW/HW06/large_prepared_data/
+HW/HW03/facedata.mat
+HW/HW06/weights/
+HW/HW04/hw4_prob_part1/mnist_data/
+HW/HW04/HW4_sol.zip
